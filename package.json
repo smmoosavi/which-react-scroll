@@ -1,0 +1,23 @@
+{
+  "name": "which-react-scroll",
+  "version": "0.0.1",
+  "description": "list of react scrollbars",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smmoosavi/which-react-scroll.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smmoosavi/which-react-scroll/issues"
+  },
+  "homepage": "https://github.com/smmoosavi/which-react-scroll#readme",
+  "dependencies": {
+    "markdown-table": "^1.1.0"
+  }
+}
