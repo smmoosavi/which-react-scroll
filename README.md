@@ -13,6 +13,22 @@ list of react scrollbars
 | [`react-scrollbars`](https://www.npmjs.com/package/react-scrollbars)               | [![npm](https://img.shields.io/npm/dm/react-scrollbars.svg)](https://www.npmjs.com/package/react-scrollbars)               | [ojame/react-scrollbars](https://github.com/ojame/react-scrollbars)                             | [![GitHub stars](https://img.shields.io/github/stars/ojame/react-scrollbars.svg?style=social&label=Star)](https://github.com/ojame/react-scrollbars)                             | [demo](http://ojame.github.io/react-scrollbars/)                       |
 | [`react-scrollbar-js`](https://www.npmjs.com/package/react-scrollbar-js)           | [![npm](https://img.shields.io/npm/dm/react-scrollbar-js.svg)](https://www.npmjs.com/package/react-scrollbar-js)           | [BosNaufal/react-scrollbar](https://github.com/BosNaufal/react-scrollbar)                       | [![GitHub stars](https://img.shields.io/github/stars/BosNaufal/react-scrollbar.svg?style=social&label=Star)](https://github.com/BosNaufal/react-scrollbar)                       | [demo](https://bosnaufal.github.io/react-scrollbar/)                   |
 
+# Reviews
+## react-scroll
+
+[repo](https://github.com/fisshy/react-scroll)
+
+> Directive for basic scrolling and smooth scrolling.
+
+:heart: :
+- scroll spy
+- smooth scrolling
+- `scrollToTop`, `scrollToBottom`, `scrollTo` (position, element), `scrollMore`, event handling
+
+:broken_heart: :
+- complex api
+- no custom scrollbar view
+
 # Help
 
 You can create issue if I missed some repo. Also you can add review for any of this repo.
