@@ -11,4 +11,4 @@ let output = table([header, ...rows]);
 
 let readme = fs.readFileSync('README.src.md', "utf-8");
 readme = readme.replace('{{ __TABLE__ }}', output);
-fs.writeFileSync('README.md', readme);
+fs.writeFileSync('../which-react-scroll/README.md', readme);
