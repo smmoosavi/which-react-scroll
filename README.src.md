@@ -8,8 +8,6 @@ list of react scrollbars
 # Reviews
 ## react-scroll
 
-[repo](https://github.com/fisshy/react-scroll)
-
 > Directive for basic scrolling and smooth scrolling.
 
 :heart: :
@@ -20,6 +18,30 @@ list of react scrollbars
 :broken_heart: :
 - complex api
 - no custom scrollbar view
+
+## react-custom-scrollbars
+
+:watch: TODO
+
+## react-scrollbar
+
+:watch: TODO
+
+## react-gemini-scrollbar
+
+:watch: TODO
+
+## react-custom-scroll
+
+:watch: TODO
+
+## react-scrollbars
+
+:watch: TODO
+
+## react-scrollbar-js
+
+:watch: TODO
 
 # Help
 
